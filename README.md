@@ -13,3 +13,7 @@ kattis_python_solutions
 #### 二分
 
 #### 动态规划
+
+#### 贪心
+
+#### 数学
