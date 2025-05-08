@@ -15,3 +15,5 @@ kattis_python_solutions
 #### 动态规划
 
 #### 贪心
+
+#### 数学
