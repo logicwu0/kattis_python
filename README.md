@@ -7,3 +7,7 @@ kattis_python_solutions
 #### priority Queue
 #### hash table
 #### graph
+
+#### 双指针
+
+#### 二分
